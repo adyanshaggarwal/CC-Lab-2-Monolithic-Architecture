@@ -1,9 +1,9 @@
 # CC \- LAB 2 \- Monolithic Architectures
 
-| Name | Adyansh Aggarwal |
+| Name \t | Adyansh Aggarwal |
 | :---- | :---- |
-| **SRN** | **PES1UG23AM028** |
-| **Section** | **AIML \- A** |
+| **SRN** \t| **PES1UG23AM028** |
+| **Section** \t| **AIML \- A** |
 
 ## SS1- Events page loaded
 ![](images/image1.png)
@@ -34,7 +34,7 @@
 
 ## Code Optimizations (in main.py) 
 
-### Route 1: /events**
+### Route 1: /events
 
 - **Bottleneck:** Artificial CPU-intensive loop
 
